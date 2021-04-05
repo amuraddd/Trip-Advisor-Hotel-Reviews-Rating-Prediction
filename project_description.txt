@@ -1,0 +1,1 @@
+This project is designed to build an application which given a user's review is able to predict the rating classification of that review, and displays an out put message to the user.
